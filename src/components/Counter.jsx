@@ -1,4 +1,5 @@
 /* eslint-disable react/prop-types */
+import './Counter.css'
 
 export const Counter = ({title, number}) => {
   return (
